@@ -1,6 +1,5 @@
 [![License](https://img.shields.io/github/license/demmonico/tf-aws-api-gateway-v1-lambda-example)](LICENSE)
 [![Tests](https://github.com/demmonico/tf-aws-api-gateway-v1-lambda-example/actions/workflows/tests.yml/badge.svg)](https://github.com/demmonico/tf-aws-api-gateway-v1-lambda-example/actions/workflows/tests.yml)
-![GitHub Tag](https://img.shields.io/github/v/tag/demmonico/tf-aws-api-gateway-v1-lambda-example)
 
 # Terraform Modules Template
 
