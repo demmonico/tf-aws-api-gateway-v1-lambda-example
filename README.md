@@ -1,9 +1,9 @@
 [![License](https://img.shields.io/github/license/demmonico/tf-aws-api-gateway-v1-lambda-example)](LICENSE)
 [![Tests](https://github.com/demmonico/tf-aws-api-gateway-v1-lambda-example/actions/workflows/tests.yml/badge.svg)](https://github.com/demmonico/tf-aws-api-gateway-v1-lambda-example/actions/workflows/tests.yml)
 
-# Terraform Modules Template
+# Terraform example: AWS API Gateway v1 with Lambda
 
-Bootstraps a new Terraform module repo.
+Bootstraps a new Terraform app: AWS API Gateway v1 with Lambda in a downstream.
 
 ## Development
 
